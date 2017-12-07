@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name:     Stage File Proxy
+ * Plugin URI:      https://github.com/drubage/stage-file-proxy
  * Description:     The easiest way to handle the uploads folder for Wordpress during development. This plugin will automatically download files from the production site uploads folder on demand. This plugin IS NOT meant for use on production websites.
  * Author:          Drew Michael
  * Author URI:      https://fruition.net/
